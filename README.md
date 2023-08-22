@@ -2,12 +2,7 @@
   <center>
     <h1 align="center">~ Hallow Gaes ~ </h1>
     <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img
-        src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&pause=1000&color=F70000&width=435&lines=Ini+Giru+(kali);Apa+Coba"
-        alt="Typing SVG"
-        />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=435&lines=Ini+Giru+(kali);Apa+Coba"alt="Typing SVG" /></a>
     </p>
   </center>
 </body>
