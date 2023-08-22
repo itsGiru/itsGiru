@@ -4,6 +4,9 @@
     <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=435&height=86&lines=Ini+Giru+(kali);Apa+Coba" alt="Typing SVG" /></a>
     </p>
+    <p>
+        <a href="https://github.com/itsGiru"><img src="[https://cardivo.vercel.app/api?name=Ryzen&description=Hi,%20Im%20Shirokami%20Ryzen%20and%20i%20love%20watching%20Anime&image=https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ryzen_vermillion&github=ShirokamiRyzen&pattern=leaf&colorPattern=%23eaeaea](https://cardivo.vercel.app/api?name=Giru&description=Hi,%20Im%20Giru%20and%20I%20love%20Ngombe%20Kopi&image=https://telegra.ph/file/4d86fea528c4173ce6065.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=itsgildass&github=itsGiru&pattern=leaf&colorPattern=%23eaeaea)" /><a>
+    </p>
   </center>
 </body>
 <!--
